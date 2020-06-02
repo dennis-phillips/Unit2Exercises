@@ -1,0 +1,11 @@
+C:\Users\Dennis\Programming\C#programming\gasMileage\gasMileage\bin\Debug\netcoreapp3.1\gasMileage.exe
+C:\Users\Dennis\Programming\C#programming\gasMileage\gasMileage\bin\Debug\netcoreapp3.1\gasMileage.deps.json
+C:\Users\Dennis\Programming\C#programming\gasMileage\gasMileage\bin\Debug\netcoreapp3.1\gasMileage.runtimeconfig.json
+C:\Users\Dennis\Programming\C#programming\gasMileage\gasMileage\bin\Debug\netcoreapp3.1\gasMileage.runtimeconfig.dev.json
+C:\Users\Dennis\Programming\C#programming\gasMileage\gasMileage\bin\Debug\netcoreapp3.1\gasMileage.dll
+C:\Users\Dennis\Programming\C#programming\gasMileage\gasMileage\bin\Debug\netcoreapp3.1\gasMileage.pdb
+C:\Users\Dennis\Programming\C#programming\gasMileage\gasMileage\obj\Debug\netcoreapp3.1\gasMileage.csprojAssemblyReference.cache
+C:\Users\Dennis\Programming\C#programming\gasMileage\gasMileage\obj\Debug\netcoreapp3.1\gasMileage.AssemblyInfoInputs.cache
+C:\Users\Dennis\Programming\C#programming\gasMileage\gasMileage\obj\Debug\netcoreapp3.1\gasMileage.AssemblyInfo.cs
+C:\Users\Dennis\Programming\C#programming\gasMileage\gasMileage\obj\Debug\netcoreapp3.1\gasMileage.dll
+C:\Users\Dennis\Programming\C#programming\gasMileage\gasMileage\obj\Debug\netcoreapp3.1\gasMileage.pdb

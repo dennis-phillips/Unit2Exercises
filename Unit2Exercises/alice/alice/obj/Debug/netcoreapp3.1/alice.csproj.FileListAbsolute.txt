@@ -1,0 +1,11 @@
+C:\Users\Dennis\Programming\C#programming\alice\alice\obj\Debug\netcoreapp3.1\alice.AssemblyInfoInputs.cache
+C:\Users\Dennis\Programming\C#programming\alice\alice\obj\Debug\netcoreapp3.1\alice.AssemblyInfo.cs
+C:\Users\Dennis\Programming\C#programming\alice\alice\bin\Debug\netcoreapp3.1\alice.exe
+C:\Users\Dennis\Programming\C#programming\alice\alice\bin\Debug\netcoreapp3.1\alice.deps.json
+C:\Users\Dennis\Programming\C#programming\alice\alice\bin\Debug\netcoreapp3.1\alice.runtimeconfig.json
+C:\Users\Dennis\Programming\C#programming\alice\alice\bin\Debug\netcoreapp3.1\alice.runtimeconfig.dev.json
+C:\Users\Dennis\Programming\C#programming\alice\alice\bin\Debug\netcoreapp3.1\alice.dll
+C:\Users\Dennis\Programming\C#programming\alice\alice\bin\Debug\netcoreapp3.1\alice.pdb
+C:\Users\Dennis\Programming\C#programming\alice\alice\obj\Debug\netcoreapp3.1\alice.dll
+C:\Users\Dennis\Programming\C#programming\alice\alice\obj\Debug\netcoreapp3.1\alice.pdb
+C:\Users\Dennis\Programming\C#programming\alice\alice\obj\Debug\netcoreapp3.1\alice.csprojAssemblyReference.cache
